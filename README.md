@@ -1,6 +1,16 @@
-# TIL
->Today I Learned (Bugün Ne Öğrendim ?)
 
-Çeşitli diller ve teknolojiler hakkında günlük yaptığım araştırmalar neticesinde kısa notlarımı tuttuğum bir repodur. 
+<p align="center">
+<img alt="TIL- Today I Learned" src="https://github.com/ouzdev/til/blob/main/til.png?raw=true" width="256"/>
+</p>
 
-Repoya eklediğim notlarımı E-Posta bülteni aracılığı ile abone olan kullanıcılarla eş zamanlı şekilde paylaşıyorum. Abone olmak için tıklayınız
+
+Çeşitli diller ve teknolojiler hakkında günlük yaptığım araştırmalar neticesinde öğrendiklerimi not aldığım bir repodur. 
+
+Eklediğim içeriklerden haberdar olamk istiyorsan <strike>E-Posta bültenine abone ol.</strike> (Yapım Aşamasında)
+
+***
+
+## Give a Star 🌟
+Eğer bu repoda bulunan bilgiler size yardımcı olduysa lütfen bir yıldız verin.
+
+***
