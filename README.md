@@ -14,3 +14,7 @@ Eklediğim içeriklerden haberdar olamk istiyorsan <strike>E-Posta bültenine ab
 Eğer bu repoda bulunan bilgiler size yardımcı olduysa lütfen bir yıldız verin.
 
 ***
+
+
+## Git
+* [Bir Commit Mesajının Anatomisi](git/bir-commit-mesajinin-anatomisi.md)
