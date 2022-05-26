@@ -18,3 +18,6 @@ Eğer bu repoda bulunan bilgiler size yardımcı olduysa lütfen bir yıldız ve
 
 ## Git
 * [Bir Commit Mesajının Anatomisi](git/bir-commit-mesajinin-anatomisi.md)
+
+## C#
+* [Runtime'da Dinamik Instance Oluşturmak](c#/dinamik-instance-olusturmak.md)
