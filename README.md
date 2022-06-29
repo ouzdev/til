@@ -21,3 +21,5 @@ Eğer bu repoda bulunan bilgiler size yardımcı olduysa lütfen bir yıldız ve
 
 ## C#
 * [Runtime'da Dinamik Instance Oluşturmak](c-sharp/dinamik-instance-olusturmak.md)
+* [.Net Dependency Injection Nedir ?](c-sharp/dependency-injection-net-core.md)
+* [.Net HttpContext Nesnesi Ne İşe Yarar ?](c-sharp/net-core-httpcontext-nedir.md)
