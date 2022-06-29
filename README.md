@@ -20,4 +20,4 @@ Eğer bu repoda bulunan bilgiler size yardımcı olduysa lütfen bir yıldız ve
 * [Bir Commit Mesajının Anatomisi](git/bir-commit-mesajinin-anatomisi.md)
 
 ## C#
-* [Runtime'da Dinamik Instance Oluşturmak](c%23/dinamik-instance-olusturmak.md)
+* [Runtime'da Dinamik Instance Oluşturmak](c-sharp/dinamik-instance-olusturmak.md)
