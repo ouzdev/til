@@ -19,3 +19,7 @@ Servisler Startup.cs içerisinde ConfigureServices methodu ile alınan services 
 * **Scoped**: Her bir requeste özgü service scope oluşturulur ve bu scope içerisinde sadece bir instance oluşturulur. Request sona ereseye kadar tanımlanan instance yaşamına devam eder.
 
 * **Transient**: Her requestte IoC  yeni bir instance oluşturulur.
+
+### Register Edilen Servisler Ne Zaman Trigger Edilir ? 
+
+Burada ki öenmli olan nokta bir request başlatıldığında ilgili entpoint in dahil olduğu controllerda dependency injection ile inject edilmiş servis interface i genellikle ilgili controller sınıfının yapıcı(cunstructor) metodunda bulunur. Burada inject edilen tüm servisler service lifetime tanımlamalarına göre instanceleri oluşturulur.
